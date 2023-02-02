@@ -10,6 +10,8 @@ import SwiftUI
 struct SwiftUIView: View {
     var body: some View {
         Text("Rana1")
+            
+        Text("wafa")
     }
 }
 
