@@ -8,19 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		25131EA4298B3F7A009FC79C /* project3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25131EA3298B3F7A009FC79C /* project3App.swift */; };
-		25131EA8298B3F7B009FC79C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25131EA7298B3F7B009FC79C /* Assets.xcassets */; };
-		25131EAB298B3F7B009FC79C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25131EAA298B3F7B009FC79C /* Preview Assets.xcassets */; };
-		25131EB4298B4A0C009FC79C /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25131EB3298B4A0C009FC79C /* Launch Screen.storyboard */; };
-		51D9D942299A68CE00ACFFD6 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D9D941299A68CE00ACFFD6 /* SwiftUIView.swift */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		25131EA0298B3F7A009FC79C /* project3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25131EA3298B3F7A009FC79C /* project3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = project3App.swift; sourceTree = "<group>"; };
-		25131EA7298B3F7B009FC79C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		25131EAA298B3F7B009FC79C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		25131EB3298B4A0C009FC79C /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
-		51D9D941299A68CE00ACFFD6 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,7 +31,7 @@
 		25131E97298B3F7A009FC79C = {
 			isa = PBXGroup;
 			children = (
-				25131EB3298B4A0C009FC79C /* Launch Screen.storyboard */,
+
 				25131EA2298B3F7A009FC79C /* project3 */,
 				25131EA1298B3F7A009FC79C /* Products */,
 			);
@@ -56,7 +50,7 @@
 			children = (
 				51D9D941299A68CE00ACFFD6 /* SwiftUIView.swift */,
 				25131EA3298B3F7A009FC79C /* project3App.swift */,
-				25131EA7298B3F7B009FC79C /* Assets.xcassets */,
+
 				25131EA9298B3F7B009FC79C /* Preview Content */,
 			);
 			path = project3;
@@ -65,7 +59,6 @@
 		25131EA9298B3F7B009FC79C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				25131EAA298B3F7B009FC79C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -128,9 +121,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25131EB4298B4A0C009FC79C /* Launch Screen.storyboard in Resources */,
 				25131EAB298B3F7B009FC79C /* Preview Assets.xcassets in Resources */,
-				25131EA8298B3F7B009FC79C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				25131EA4298B3F7A009FC79C /* project3App.swift in Sources */,
-				51D9D942299A68CE00ACFFD6 /* SwiftUIView.swift in Sources */,
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
