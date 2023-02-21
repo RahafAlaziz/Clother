@@ -11,8 +11,6 @@ import SwiftUI
 struct project3App: App {
     var body: some Scene {
         WindowGroup {
-            SelectGender()
-            LaunchScreen()
         }
     }
 }
